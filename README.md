@@ -1,12 +1,12 @@
 # Mac-Android-Studio-use-Svn-Github
 
-Mac中Android Studio的svn使用笔记
+# Mac中Android Studio的svn使用笔记
 •	1.Add Ignored；
 •	2.Share project；
 •	3.Checkout project； 
 •	4.Update project； 
 
-•	一、Add Ignored
+一、Add Ignored
 AS；  preferences；  version control；  Ignored files；   “+” ；
 {
 1.specified file；         local.properties；
@@ -37,14 +37,14 @@ AS启动页；   VCS；  Subversion；   弹出框 Repositeries “+”；  增�
 
 
 
-Mac中Android Studio 的GitHub 使用
+# Mac中Android Studio 的GitHub 使用
 •	1.Add Ignored；
 •	2.GitHub User Login；
 •	3.Share project；
 •	4.Checkout project； 
 •	5.Update project ；
 
-•	一、Add Ignored
+一、Add Ignored
 AS；  preferences；  version control；  Ignored files；   “+”； 
 {
 1.specified file；        local.properties；
